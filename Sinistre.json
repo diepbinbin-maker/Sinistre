@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": Sinistre,
+    "previewText": string,
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-Bold": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-BoldItalic": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-ExtraBold": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-Medium": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-MediumItalic": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-Normal": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-NormalItalic": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-Semibold": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "NotoSans-Bold": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "NotoSans-ExtraBold": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "NotoSans-Medium": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "NotoSans-Normal": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "NotoSans-NormalItalic": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "NotoSans-Semibold": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf",
+        "SourceCodePro-Semibold": "https://github.com/diepbinbin-maker/Sinistre/raw/refs/heads/main/SinistreVF.ttf"
+    }
+}
