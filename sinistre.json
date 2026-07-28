@@ -1,7 +1,7 @@
 {
     "spec": 1,
     "name": sinistre,
-    "previewText": string,
+    "previewText": sinistre,
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/diepbinbin-maker/sinistre/raw/refs/heads/main/sinistrevf.ttf",
         "ggsans-Bold": "https://github.com/diepbinbin-maker/sinistre/raw/refs/heads/main/sinistrevf.ttf",
